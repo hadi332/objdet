@@ -2,7 +2,6 @@
 
 ##Randomly splits images to 80% train, 10% validation, and 10% test and moves them to their respective folders. 
 ## This script is intended to be used in the TFLite Object Detection Colab notebook here:
-##https://colab.research.google.com/drive/1dNNjO5_MXACmpawvLKHvbrjg4cVSzjq1#scrollTo=NUWylysVEtnw
 
 import glob
 from pathlib import Path
